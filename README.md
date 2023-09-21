@@ -20,8 +20,7 @@
 **J(x) = K*I(x) + D(x) + I(x)  **
  
 其中K代表全局退化，D代表严重的斑块损伤，I代表高清输入，J代表输出   
-退化过程建模参考论文：       
-MixDehazeNet: https://arxiv.org/pdf/2305.17654v1.pdf
+
 #### 网络设计
 ![](https://ai-studio-static-online.cdn.bcebos.com/b2325baf621c4a7db39b67e601281ed15b7526332a2c41808e376b0bf7850aaf)
 网络整体结构为经典的编解码结构，再该结构的基础上做了如下改进:    
