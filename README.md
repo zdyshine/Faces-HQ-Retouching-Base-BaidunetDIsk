@@ -1,5 +1,8 @@
 # Faces-HQ-Retouching-Base-BaidunetDIsk
-#### 暂不提供代码，后期开源    
+#### [代码连接(https://aistudio.baidu.com/projectdetail/6714032)  
+
+百度网盘AI大赛-美颜祛斑祛痘AB榜第一，决赛创新性太低，无名次(AB榜指标比现在第一指标高0.2db)    
+个人感觉相比其他队伍还是有不小的创新，各位看官可自评自取    
 
 # 图像处理挑战赛:美颜祛斑祛痘方案
 # 一、赛题介绍
